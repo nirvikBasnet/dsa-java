@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package leetcode;
 
 public class remove_duplicate_from_sorted_array {
     public static void main(String[] args) {
